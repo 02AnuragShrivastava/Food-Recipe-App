@@ -1,6 +1,8 @@
 # React + Vite
 
 Food Recipe App
+
+
 A modern web application for browsing, searching, and saving your favorite food recipes. Built with React.js, styled using Tailwind CSS and plain CSS, this app provides a user-friendly interface and dynamic functionalities.
 
 Features
